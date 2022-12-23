@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice for FreeCodeCamp certification",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "request",
+    "header",
+    "parser"
+  ],
+  "author": "tothm23",
+  "contributors": [
+    {
+      "name": "freeCodeCamp"
+    }
+  ],
+  "license": "ISC"
+}
